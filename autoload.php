@@ -23,4 +23,5 @@ function autoload_class($class)
     }
 }
 
-//spl_autoload_register('autoload_class');
+// Vertel PHP dat de function 'autoload_class' gebruikt moet worden voor het laden van classes
+spl_autoload_register('autoload_class');

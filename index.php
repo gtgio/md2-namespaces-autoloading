@@ -6,8 +6,8 @@ require 'classes/Product.php';
 require 'classes/ShoppingCart.php';
 //require 'other-classes/Product.php';
 
-$product = new Product('Broorje Gezond');
-//$nike_product = new Product('Air Max',159,95);
+$product = new Product('Broodje Gezond');
+//$nike_product = new Product('Air Max',159.95);
 
 $cart = new ShoppingCart();
 $catalogue = new ProductCatalogue();
