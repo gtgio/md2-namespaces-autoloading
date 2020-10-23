@@ -13,7 +13,7 @@ Met de informatie en kennis die je net hebt geleerd over Namespaces:
 7. Maak nu een map aan met de naam `src`. Kijk naar de namespaces van de classes en maak de juiste mappen aan zoals in de slides als voorbeeld is gegeven. 
     * Dus voor elk deel van de namespace een nieuwe map
 8. Haal nu ALLE regels met **require** weg uit `index.php`.
-9. Voeg alleen helemaal bovenaan een require voor 'autoload.php' toe. De autolaoser zorgt er voor dat, als het goed is, al jouw classes nu automatisch worden ingeladen (autoloading!)
+9. Voeg alleen helemaal bovenaan een require voor 'autoload.php' toe. De autoloader zorgt er voor dat, als het goed is, al jouw classes nu automatisch worden ingeladen (autoloading!)
 
 **Bekijk de slides voor aanwijzingen, daarin kun je zien hoe je dit kunt aanpakken.**
 
